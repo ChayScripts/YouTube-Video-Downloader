@@ -1,6 +1,6 @@
 # YouTube Video Downloader
 
-A Streamlit-based web application for downloading YouTube videos with quality selection and progress tracking.
+A Streamlit-based web application for downloading YouTube videos as MP4 or MP3 format with quality selection and progress tracking.
 
 ## Features
 
@@ -45,6 +45,8 @@ streamlit run youtube_downloader.py
 
 6. Once complete, use the "Download MP4" button to save the file
 
+7. Optionally, select mp3 option from output Format dropdown to get mp3 file.
+
 ## File Structure
 
 ```
@@ -68,6 +70,11 @@ The script automatically:
 - **720p**: HD resolution  
 - **480p**: Standard definition
 - **360p**: Low resolution for faster downloads
+
+## Output Format
+
+- Select MP4 for video file
+- Select MP3 for audio file
 
 ## Error Handling
 
