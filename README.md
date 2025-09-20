@@ -1,4 +1,4 @@
-# YouTube Video Downloader
+# YouTube Video MP4/MP3 Downloader
 
 A Streamlit-based web application for downloading YouTube videos as MP4 or MP3 format with quality selection and progress tracking.
 
